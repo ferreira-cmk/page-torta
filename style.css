@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 100px;
+    padding-bottom: 0;
+    margin: 25px 60px;
+    background-color: #7270707c;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1, h2, h3{
+    color: #1B1B1B;
+    text-align: center;
+    
+}
+h2{
+    padding: 10px;
+    font-size:19px;
+}
+footer, figcaption{
+    color: #8F8F8F;
+    font-size: 12px;
+}
+p{
+    color: #39393A;
+}
+main{
+    background-color:  #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+}
+ul, ol,li{
+    padding: 5px;
+    font-weight: 26px;
+    margin: 15px;
+}
+.conteudo-1{
+    border: 1px solid black;
+}
+.torta{
+    text-align: right;
+    color: #8f8f8f;
+    font-size: 12px;
+}
+.torta img{
+    align-items: center;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+.Titulo{
+    font-size: 28px;
+    text-transform: uppercase;
+   
+}
+.subtitulo{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+footer{
+    text-align: center;
+    margin-top:30px;
+    border: 2px solid green;
+}
